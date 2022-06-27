@@ -1,0 +1,11 @@
+Model Information:
+* title:	Surf Bigloop Preview
+* source:	https://sketchfab.com/3d-models/surf-bigloop-preview-a8fbe209c5fa4d03bf47d0311039fdfe
+* author:	EVAI (https://sketchfab.com/Evvvai)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Surf Bigloop Preview" (https://sketchfab.com/3d-models/surf-bigloop-preview-a8fbe209c5fa4d03bf47d0311039fdfe) by EVAI (https://sketchfab.com/Evvvai) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
